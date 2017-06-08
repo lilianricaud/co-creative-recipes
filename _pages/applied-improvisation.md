@@ -8,45 +8,15 @@ layout: page
 permalink: >
   http://liric.dreamhosters.com/recipes/applied-improvisation/
 published: true
-Submitted by / found via:
-  - @sebpaquet
-  - @sebpaquet
-  - @sebpaquet
 Tagline:
   - non theater uses of improv skills
-  - non theater uses of improv skills
-  - non theater uses of improv skills
-Wikipedia article:
-  - ""
-  - ""
-  - ""
+Submitted by / found via:
+  - @sebpaquet
 Community of practice:
   - http://appliedimprov.ning.com/
-  - http://appliedimprov.ning.com/
-  - http://appliedimprov.ning.com/
-(Free/libre) Recipe:
-  - ""
-  - ""
-  - ""
-Free/libre Recipe GitHub format:
-  - ""
-  - ""
-  - ""
 Other links/references, examples:
   - http://www.appliedimprov.com/
-  - http://www.appliedimprov.com/
-  - http://www.appliedimprov.com/
-Video example:
-  - ""
-  - ""
-  - ""
 Related formats:
-  - >
-    Jam Session, Improvisation, Improv
-    Theather
-  - >
-    Jam Session, Improvisation, Improv
-    Theather
   - >
     Jam Session, Improvisation, Improv
     Theather
