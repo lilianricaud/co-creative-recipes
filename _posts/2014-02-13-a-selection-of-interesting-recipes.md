@@ -6,30 +6,20 @@ post_date: 2014-02-13 18:04:02
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.co-creative-recipes.cc/a-selection-of-interesting-recipes/
+  http://liric.dreamhosters.com/recipes/2014/02/13/a-selection-of-interesting-recipes/
 published: true
 ---
-Here's a selection of interesting and well documented free/libre recipes: 
-*   [Detroit Soup][1]
-*   [Disco Soupe][2]
-*   [Global P2P WikiSprint][3]
-*   [Gratiféria][4]
-*   [Hackathon][5]
-*   [Minga][6]
-*   [Open Source Hardware Documentation Jam][7]
-*   [Permablitz][8]
-*   [Pro-Action Café][9]
-*   [Repair Café][10]
-*   [World café][11]
-
- [1]: http://www.co-creative-recipes.cc/recipes/detroit-soup/ "Detroit SOUP"
- [2]: http://www.co-creative-recipes.cc/recipes/disco-soupe/ "Disco soupe"
- [3]: http://www.co-creative-recipes.cc/recipes/globalp2p-wikisprint/ "GlobalP2P Wikisprint"
- [4]: http://www.co-creative-recipes.cc/recipes/gratiferia-really-really-free-market/ "Gratiferia / Really Really Free Market"
- [5]: http://www.co-creative-recipes.cc/recipes/hackathon/ "Hackathon"
- [6]: http://www.co-creative-recipes.cc/recipes/minga/ "Minga"
- [7]: http://www.co-creative-recipes.cc/recipes/open-source-hardware-documentation-jam/ "Open Source Hardware Documentation Jam"
- [8]: http://www.co-creative-recipes.cc/recipes/permablitz/ "Permablitz"
- [9]: http://www.co-creative-recipes.cc/recipes/pro-action-cafe/ "Pro Action Café"
- [10]: http://www.co-creative-recipes.cc/recipes/repair-cafe/ "Repair Café"
- [11]: http://www.co-creative-recipes.cc/recipes/world-cafe/
+Here's a selection of interesting and well documented free/libre recipes:
+<ul>
+	<li><a title="Detroit SOUP" href="http://www.co-creative-recipes.cc/recipes/detroit-soup/">Detroit Soup</a></li>
+	<li><a title="Disco soupe" href="http://www.co-creative-recipes.cc/recipes/disco-soupe/">Disco Soupe</a></li>
+	<li><a title="GlobalP2P Wikisprint" href="http://www.co-creative-recipes.cc/recipes/globalp2p-wikisprint/">Global P2P WikiSprint</a></li>
+	<li><a title="Gratiferia / Really Really Free Market" href="http://www.co-creative-recipes.cc/recipes/gratiferia-really-really-free-market/">Gratiféria</a></li>
+	<li><a title="Hackathon" href="http://www.co-creative-recipes.cc/recipes/hackathon/">Hackathon</a></li>
+	<li><a title="Minga" href="http://www.co-creative-recipes.cc/recipes/minga/">Minga</a></li>
+	<li><a title="Open Source Hardware Documentation Jam" href="http://www.co-creative-recipes.cc/recipes/open-source-hardware-documentation-jam/">Open Source Hardware Documentation Jam</a></li>
+	<li><a title="Permablitz" href="http://www.co-creative-recipes.cc/recipes/permablitz/">Permablitz</a></li>
+	<li><a title="Pro Action Café" href="http://www.co-creative-recipes.cc/recipes/pro-action-cafe/">Pro-Action Café</a></li>
+	<li><a title="Repair Café" href="http://www.co-creative-recipes.cc/recipes/repair-cafe/">Repair Café</a></li>
+	<li><a href="http://www.co-creative-recipes.cc/recipes/world-cafe/">World café</a></li>
+</ul>

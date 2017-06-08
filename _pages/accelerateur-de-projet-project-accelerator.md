@@ -8,26 +8,50 @@ post_date: 2014-02-13 15:22:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.co-creative-recipes.cc/accelerateur-de-projet-project-accelerator/
+  http://liric.dreamhosters.com/recipes/accelerateur-de-projet-project-accelerator/
 published: true
 Submitted by / found via:
   - @lilious
+  - @lilious
+  - @lilious
 Tagline:
+  - ""
+  - ""
   - ""
 Wikipedia article:
   - ""
+  - ""
+  - ""
 Community of practice:
+  - ""
+  - ""
   - ""
 (Free/libre) Recipe:
   - ""
+  - ""
+  - ""
 Free/libre Recipe GitHub format:
+  - ""
+  - ""
   - ""
 Other links/references, examples:
   - >
     http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet
+  - >
+    http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet
+  - >
+    http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet
 Video example:
   - ""
+  - ""
+  - ""
 Related formats:
+  - >
+    MakeSense Hold-up, Project Kitchen
+    Meetings, Co-Developpement Professionel
+  - >
+    MakeSense Hold-up, Project Kitchen
+    Meetings, Co-Developpement Professionel
   - >
     MakeSense Hold-up, Project Kitchen
     Meetings, Co-Developpement Professionel
