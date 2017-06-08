@@ -8,47 +8,15 @@ layout: page
 permalink: >
   http://liric.dreamhosters.com/recipes/agile-coaches-dojo/
 published: true
-Submitted by / found via:
-  - @pointbar
-  - @pointbar
-  - @pointbar
-Tagline:
-  - ""
-  - ""
-  - ""
-Wikipedia article:
-  - ""
-  - ""
-  - ""
-Community of practice:
-  - ""
-  - ""
-  - ""
 (Free/libre) Recipe:
   - >
     http://www.slideshare.net/noostvog/agile-coaching-dojo
-  - >
-    http://www.slideshare.net/noostvog/agile-coaching-dojo
-  - >
-    http://www.slideshare.net/noostvog/agile-coaching-dojo
-Free/libre Recipe GitHub format:
-  - ""
-  - ""
-  - ""
+Related formats:
+  - Coach Retreat, Coding Dojo
+Submitted by / found via:
+  - @pointbar
 Other links/references, examples:
   - >
     http://agilecoach.typepad.com/agile-coaching/2010/08/improving-agile-coaching-skills.html
-  - >
-    http://agilecoach.typepad.com/agile-coaching/2010/08/improving-agile-coaching-skills.html
-  - >
-    http://agilecoach.typepad.com/agile-coaching/2010/08/improving-agile-coaching-skills.html
-Video example:
-  - ""
-  - ""
-  - ""
-Related formats:
-  - Coach Retreat, Coding Dojo
-  - Coach Retreat, Coding Dojo
-  - Coach Retreat, Coding Dojo
 ---
 a meeting where a group of agile coaches get together to work on a challenge. They are there to have play and to engage in deliberate practice in order to improve skills, by practicing coaching with others
