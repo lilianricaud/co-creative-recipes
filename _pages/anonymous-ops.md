@@ -11,41 +11,20 @@ published: true
 Submitted by / found via:
   - @lilious
   - @lilious
-  - @lilious
-Tagline:
+Free/libre Recipe GitHub format:
   - ""
-  - ""
+Other links/references, examples:
   - ""
 Wikipedia article:
   - >
     https://en.wikipedia.org/wiki/Anonymous_(group)
   - >
     https://en.wikipedia.org/wiki/Anonymous_(group)
-  - >
-    https://en.wikipedia.org/wiki/Anonymous_(group)
-Community of practice:
-  - ""
-  - ""
-  - ""
-(Free/libre) Recipe:
-  - ""
-  - ""
-  - ""
-Free/libre Recipe GitHub format:
-  - ""
-  - ""
-  - ""
-Other links/references, examples:
-  - ""
-  - ""
-  - ""
 Video example:
   - ""
-  - ""
+Tagline:
   - ""
 Related formats:
-  - Guerilla
-  - Guerilla
   - Guerilla
 ---
 act taken by decentralized online community acting anonymously in a coordinated manner, usually toward a loosely self-agreed goal, and primarily focused on entertainment.
