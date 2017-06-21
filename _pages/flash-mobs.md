@@ -39,12 +39,7 @@ Related formats:
     Critical Mass (cycling), Improv
     Everywhere missions, Pillow Fight
     Day/Pillow Fight Flash Mobs
-  - >
-    Smart mobs, Distributed mobs, Music
-    Flash Mobs, Cyclist flash mobs /
-    Critical Mass (cycling), Improv
-    Everywhere missions, Pillow Fight
-    Day/Pillow Fight Flash Mobs
+
 ---
 Getting together of people in the public space with the purpose of some acts, most of the time suprise by-passers. The purpose can be artistic, political or even partying.
 
